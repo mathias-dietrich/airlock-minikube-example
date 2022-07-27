@@ -8,7 +8,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/ergon/airlock-minikube-example.git
+    repoURL: https://github.com/mathias-dietrich/airlock-minikube-example
     targetRevision: v4.2.0
     path: apps/minikube-example/
 
