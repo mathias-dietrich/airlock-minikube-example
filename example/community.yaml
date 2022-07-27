@@ -17,7 +17,7 @@ spec:
         spec:
           # TODO: Can be removed in future (repoURL and targetRevision)
           source:
-            repoURL: https://github.com/ergon/airlock-minikube-example.git
+            repoURL:  https://github.com/mathias-dietrich/airlock-minikube-example
             targetRevision: v4.2.0
 
           syncPolicy:
